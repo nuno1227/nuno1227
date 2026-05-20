@@ -83,6 +83,6 @@ const nuno = {
 
 <div align="center">
 
-### ⚔️ “Sleep is temporary, code is forever.”
+### ☕ “O amor é uma ótima razão pra que tudo dê errado.”
 
 </div>
