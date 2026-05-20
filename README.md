@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f0f0f,100:6a00ff&text=Sup, i'm Nuno!&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f0f0f,100:6a00ff&text=Sup,%20i'm%20Nuno!&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=38"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Automation+%26+Bots;Anime+%2B+Coding+%2B+Coffee;Always+building+something..." />
 
