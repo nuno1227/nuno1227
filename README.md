@@ -44,7 +44,7 @@ const nuno = {
 <img src="https://raw.githubusercontent.com/nuno1227/nuno1227/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
-----
+
 
 # 🌌 Profile Views
 
