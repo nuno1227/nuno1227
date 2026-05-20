@@ -37,30 +37,6 @@ const nuno = {
 
 </div>
 
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nuno1227&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuno1227&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-
-</div>
-
----
-
-# 🔥 Streak Stats
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=nuno1227&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 # 🐍 Contribution Snake
 
 <div align="center">
@@ -68,7 +44,17 @@ const nuno = {
 <img src="https://raw.githubusercontent.com/nuno1227/nuno1227/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
+----
 
+# 🌌 Profile Views
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=nuno1227&color=blueviolet&style=for-the-badge)
+
+</div>
+
+---
 ---
 
 # 🎴 Vibes
@@ -81,15 +67,7 @@ const nuno = {
 
 ---
 
-# 🌌 Profile Views
 
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=nuno1227&color=blueviolet&style=for-the-badge)
-
-</div>
-
----
 
 # 📫 Contact
 
