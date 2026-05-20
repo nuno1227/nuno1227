@@ -55,7 +55,7 @@ const nuno = {
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=nuno1227&theme=tokyonight&hide_border=true&background=00000000"/>
+<img src="https://streak-stats.demolab.com?user=nuno1227&theme=tokyonight&hide_border=true"/>
 
 </div>
 
